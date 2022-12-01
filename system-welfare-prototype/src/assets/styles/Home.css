@@ -1,0 +1,19 @@
+header > .logo {
+  display: flex;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+header > .logo > .logo--image {
+  width: 120px;
+}
+
+header > .logo > .logo--text > p {
+  margin: 0;
+}
+
+.custom-hr {
+  height: 10px;
+  background-color: #369;
+}

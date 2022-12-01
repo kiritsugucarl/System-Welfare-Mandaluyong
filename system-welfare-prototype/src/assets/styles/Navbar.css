@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav > .nav--buttons {
+  display: flex;
+}
+
+nav > .nav--buttons > a {
+  text-decoration: none;
+  padding: 14px 16px;
+  background-color: #bb5c5c;
+  color: rgb(8, 8, 8);
+  margin-left: 20px;
+}
